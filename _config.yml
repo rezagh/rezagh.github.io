@@ -4,4 +4,6 @@ plugins:
 title: [Reza's Home Page]
 description: [Reza's Home Page]
 show_downloads: ["false"]
+github:
+  is_project_page: false
 
