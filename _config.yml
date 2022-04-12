@@ -1,11 +1,9 @@
 remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Reza's Home Page]
 description: [Reza's Home Page]
 show_downloads: false
 disable_disk_cache: true
-github:
-  is_project_page: false
-  owner_name: false
+#github:
+#  is_project_page: false
+#  owner_name: false
 
