@@ -3,7 +3,7 @@ title: [Reza's Home Page]
 description: [Reza's Home Page]
 show_downloads: false
 disable_disk_cache: true
-#github:
-#  is_project_page: false
+github:
+  is_project_page: false
 #  owner_name: false
 
