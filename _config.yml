@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Reza's Home Page]
 description: [Reza's Home Page]
-show_downloads: ["false"]
+show_downloads: [false]
 github:
   is_project_page: false
 
