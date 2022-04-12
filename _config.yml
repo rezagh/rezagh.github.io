@@ -7,4 +7,5 @@ show_downloads: false
 disable_disk_cache: true
 github:
   is_project_page: false
+  owner_name: false
 
