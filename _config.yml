@@ -3,7 +3,7 @@ title: Reza Ghafari
 description: 
 show_downloads: false
 disable_disk_cache: true
-github:
-  repository_url: false
+#github:
+#  repository_url: false
 #  owner_name: false
 
