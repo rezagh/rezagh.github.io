@@ -5,6 +5,6 @@ show_downloads: false
 disable_disk_cache: true
 github:
   is_project_page: false
-#  repository_url: false
+  repository_url: ""
 #  owner_name: false
 
